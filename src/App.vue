@@ -2,10 +2,12 @@
   <div id="main-background" class="w-screen h-screen flex flex-col text-white">
     <div class="flex flex-grow justify-center items-center">
       <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-125">
-        <h1 class="text-6xl text-shadow-lg font-display">Comming Soon!</h1>
+        <h1 class="text-3xl md:text-5xl lg:text-6xl text-shadow-lg font-display">Comming Soon!</h1>
       </div>
     </div>
-    <footer class="flex flex-col flex-shrink justify-center items-center text-shadow text-2xl font-sans font-medium">
+    <footer
+      class="flex flex-col flex-shrink justify-center items-center text-shadow text-lg md:text-xl lg:text-2xl font-sans font-medium"
+    >
       <div class="flex flex-row">
         <div class="font-bold">Business:</div>
         <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 hover:underline">
