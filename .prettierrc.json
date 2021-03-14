@@ -1,0 +1,14 @@
+{
+  "trailingComma": "es5",
+  "printWidth": 120,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "cursorOffset": -1,
+  "tabWidth": 2,
+  "vueIndentScriptAndStyle": false,
+  "useTabs": false,
+  "singleQuote": true,
+  "endOfLine": "lf",
+  "semi": true,
+  "proseWrap": "never"
+}
