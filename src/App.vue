@@ -9,13 +9,13 @@
       class="flex flex-col flex-shrink justify-center items-center text-shadow text-lg md:text-xl lg:text-2xl font-sans font-medium"
     >
       <div class="flex flex-row">
-        <div class="font-bold">Business:</div>
+        <div class="font-bold">Business:&ensp;</div>
         <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 hover:underline">
           <a href="mailto:enterprise@elixir.red">enterprise@elixir.red</a>
         </div>
       </div>
       <div class="flex flex-row">
-        <div class="font-bold">Sales:</div>
+        <div class="font-bold">Sales:&ensp;</div>
         <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 hover:underline">
           <a href="mailto:shop@elixir.red">shop@elixir.red</a>
         </div>
